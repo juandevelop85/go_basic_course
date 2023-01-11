@@ -1,5 +1,0 @@
-package funciones
-
-func main() {
-
-}
